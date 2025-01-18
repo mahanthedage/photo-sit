@@ -12,7 +12,7 @@ function Header() {
           <ul className="navbar-nav ms-auto">
             <li className="nav-item"><a className="nav-link" href="#">Home</a></li>
             <li className="nav-item"><a className="nav-link" href="#gallery">Gallery</a></li>
-            <li className="nav-item"><a className="nav-link" href="#">Contact</a></li>
+            <li className="nav-item"><a className="nav-link" href="#contact">Contact</a></li>
           </ul>
         </div>
       </nav>
